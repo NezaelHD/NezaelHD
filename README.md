@@ -22,8 +22,8 @@
 
 <hr>
 <h1 align="center">ABOUT ME</h1>
-<a href="https://app.daily.dev/Nezael"><img align="left" src="https://api.daily.dev/devcards/8e3c71010e8c420ba4525be233391b03.png?r=63f" width="280" alt="Nezael's Dev Card"/></a>
 
+<a href="https://app.daily.dev/Nezael"><img align="left" src="https://github.com/NezaelHD/NezaelHD/blob/main/devcard.svg" width="280" alt="Nezael's Dev Card"/></a>
 <hr>
 
 ```
